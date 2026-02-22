@@ -33,5 +33,5 @@ def merge_sort(arr):
 
     return arr
 
-numbers = [56, 66, 4, 2, 224, 15, 80]
-print(merge_sort(numbers))  # [2, 4, 15, 56, 66, 80, 224]
+example = [56, 66, 4, 2, 224, 15, 80]
+print(merge_sort(example))  # [2, 4, 15, 56, 66, 80, 224]
